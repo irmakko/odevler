@@ -1,0 +1,7 @@
+C:\Users\Stajyer\Desktop\c#odev08\client08\bin\Debug\client08.exe.config
+C:\Users\Stajyer\Desktop\c#odev08\client08\bin\Debug\client08.exe
+C:\Users\Stajyer\Desktop\c#odev08\client08\bin\Debug\client08.pdb
+C:\Users\Stajyer\Desktop\c#odev08\client08\obj\Debug\client08.csproj.AssemblyReference.cache
+C:\Users\Stajyer\Desktop\c#odev08\client08\obj\Debug\client08.csproj.CoreCompileInputs.cache
+C:\Users\Stajyer\Desktop\c#odev08\client08\obj\Debug\client08.exe
+C:\Users\Stajyer\Desktop\c#odev08\client08\obj\Debug\client08.pdb

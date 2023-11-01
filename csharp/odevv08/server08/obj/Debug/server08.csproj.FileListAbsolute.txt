@@ -1,0 +1,7 @@
+C:\Users\Stajyer\Desktop\c#odev08\server08\bin\Debug\server08.exe.config
+C:\Users\Stajyer\Desktop\c#odev08\server08\bin\Debug\server08.exe
+C:\Users\Stajyer\Desktop\c#odev08\server08\bin\Debug\server08.pdb
+C:\Users\Stajyer\Desktop\c#odev08\server08\obj\Debug\server08.csproj.AssemblyReference.cache
+C:\Users\Stajyer\Desktop\c#odev08\server08\obj\Debug\server08.csproj.CoreCompileInputs.cache
+C:\Users\Stajyer\Desktop\c#odev08\server08\obj\Debug\server08.exe
+C:\Users\Stajyer\Desktop\c#odev08\server08\obj\Debug\server08.pdb
