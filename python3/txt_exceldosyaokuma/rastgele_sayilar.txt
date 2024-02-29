@@ -1,0 +1,2 @@
+Oluþturulan rastgele sayýlar: [96, 33]
+Toplam: 129

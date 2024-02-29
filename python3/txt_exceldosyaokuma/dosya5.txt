@@ -1,0 +1,2 @@
+Rastgele sayilar: [6, 87]
+Toplam: 93
