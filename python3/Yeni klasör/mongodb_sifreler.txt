@@ -1,0 +1,6 @@
+MONGODB SİFRELER
+
+
+mongodb+srv://<username>:<password>@cluster0.z4sbgl0.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+7fGkHjIOqDJKiWXE
+///WVeV30qBDCHoxu6X
